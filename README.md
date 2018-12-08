@@ -28,12 +28,12 @@
 </ul>
 
 
-# TODO
-integrate the spoggy-graph of scenaristeur/heroku-spoggy/spoggy4
+## TODO
+
+integrate spoggy-graph of; scenaristeur/heroku-spoggy/spoggy4
 
 
-
-# Installation
+## Installation
 
 requires; nodejs, polymer3
 
