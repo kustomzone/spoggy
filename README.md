@@ -1,4 +1,4 @@
-<h1>  Spoggy <h1>
+<h1>  Spoggy </h1>
 
 <p> <i> Translated </i> (fr -> en) </p>
 
@@ -6,16 +6,16 @@
 
 <p>
   Imagine a mobile app where you can directly store information about your ideas, your dreams, your problems, your experiences and everything that goes through your head.
-</br>
+<br>
    That you can at any time and very easily come back, modify them, erase them, connect them, share them, transmit some of them to a member of your family, a colleague or a friend...
-</br>
+<br>
   Would not you be an augmented man or woman, with your second brain, a digital brain this time?
-</br>
+<br>
   Imagine that you can connect this digital brain to other similar brains...
-</br>
+<br>
 
   To that of your neighbors to agree on a specific point or that of your colleagues to take into account their expertise after they have shared access to you.
-</br>
+<br>
 
   Expose to your family or to anyone who wants to help you advance your projects, your worldview, your children your values and your experience...
 </p>
