@@ -1,34 +1,40 @@
-<h1>  Spoggy </h1>
+<h2>  Spoggy </h2>
+
+
+## Screenshot
+
+![Spoggy Demo](/images/screenshot.png?raw=true)
+
+
+## Intro
 
 <p> <i> Translated </i> (fr -> en) </p>
 
-<h2>  A small step for man, a big step for immortality.</h2>
+<h3>  A small step for man, a big step for immortality.</h3>
 
 <p>
-  Imagine a mobile app where you can directly store information about your ideas, your dreams, your problems, your experiences and everything that goes through your head.
-<br>
-   That you can at any time and very easily come back, modify them, erase them, connect them, share them, transmit some of them to a member of your family, a colleague or a friend...
-<br>
-  Would not you be an augmented man or woman, with your second brain, a digital brain this time?
-<br>
+  Imagine an app where you can easily store information about your ideas, your dreams, your problems, your experiences and everything that goes through your head.
+<br><br>
+  Then simply modify them, erase them, connect them, share them, transmit some of them to a member of your family, a colleague or a friend...
+<br><br>
+  Would not you be an augmented person, with new brain, a digital brain this time?
+<br><br>
   Imagine that you can connect this digital brain to other similar brains...
-<br>
-
-  To that of your neighbors to agree on a specific point or that of your colleagues to take into account their expertise after they have shared access to you.
-<br>
-
-  Expose to your family or to anyone who wants to help you advance your projects, your worldview, your children your values and your experience...
+<br><br>
+  Share with colleagues to take into account of their expertise after they have shared access to you.
+<br><br>
+  Allow people to help you advance your projects, your worldview, your values and your experience...
 </p>
 
 <ul>
-<li>Transfer of knowledge during retirement,</li>
-<li>Collaboration in real time,</li>
-<li>Connect to Wikipedia and to a growing number of scientific knowledge bases and other fields (food, botany...),</li>
-<li>Bi-directional exchanges with connected objects and robots (information directly understandable and inferable by machines).</li>
+<li> Knowledge transfer,</li>
+<li> Collaborate in real time,</li>
+<li> Connect to Wikipedia or a growing number of scientific knowledge bases and other fields (food, botany...),</li>
+<li> Bi-directional exchanges with connected objects and robots (information directly understandable and inferable by machines).</li>
 </ul>
 
 
-## TODO
+## Todo
 
 integrate spoggy-graph of; scenaristeur/heroku-spoggy/spoggy4
 
