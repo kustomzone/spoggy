@@ -1,38 +1,43 @@
-<h1>  Spoggy.<h1>
+<h1>  Spoggy <h1>
 
-<h2>  Un petit pas pour l'homme, un grand pas pour l'immortalité.</h2>
+<p> <i> Translated </i> (fr -> en) </p>
+
+<h2>  A small step for man, a big step for immortality.</h2>
 
 <p>
-  Imaginez une application mobile dans laquelle vous pouvez directement stocker des informations concernant vos idées, vos rêves, vos problèmes, vos expériences et tout ce qui vous passe par la tête.
+  Imagine a mobile app where you can directly store information about your ideas, your dreams, your problems, your experiences and everything that goes through your head.
 </br>
-   Que vous puissiez à tout moment et très facilement revenir dessus, les modifier, les effacer, les relier, les partager, en transmettre une partie à un membre de votre famille, un collègue ou un ami...
+   That you can at any time and very easily come back, modify them, erase them, connect them, share them, transmit some of them to a member of your family, a colleague or a friend...
 </br>
-  Ne seriez-vous pas un homme ou une femme augmenté(e), avec votre deuxième cerveau, un cerveau numérique cette fois?
+  Would not you be an augmented man or woman, with your second brain, a digital brain this time?
 </br>
-  Imaginez que vous puissiez connecter ce cerveau numérique à d'autres cerveaux similaires...
-</br>
-
-  A celui de vos voisins pour vous accorder sur un point précis où à celui de vos collègues pour prendre en compte leur expertise après qu'ils vous aient partagé l'accès.
+  Imagine that you can connect this digital brain to other similar brains...
 </br>
 
-  Exposez à votre famille ou à quiconque voudra bien vous aider pour faire avancer vos projets, votre vision du monde, à vos enfants vos valeurs et votre expérience...
+  To that of your neighbors to agree on a specific point or that of your colleagues to take into account their expertise after they have shared access to you.
+</br>
+
+  Expose to your family or to anyone who wants to help you advance your projects, your worldview, your children your values and your experience...
 </p>
 
 <ul>
-<li>Transmission du savoir lors d'un départ à la retraite,</li>
-<li>Collaboration en temps réel,</li>
-<li>Connexion à Wikipédia et à un nombre croissant de bases de connaissances scientifiques et autres domaines (alimentation, botanique...),</li>
-<li>Échanges bi-directionnels avec les objets connectés et les robots (informations directement compréhensibles et inférables par les machines).</li>
+<li>Transfer of knowledge during retirement,</li>
+<li>Collaboration in real time,</li>
+<li>Connect to Wikipedia and to a growing number of scientific knowledge bases and other fields (food, botany...),</li>
+<li>Bi-directional exchanges with connected objects and robots (information directly understandable and inferable by machines).</li>
 </ul>
 
 
 # TODO
-integrer le spoggy-graph de scenaristeur/heroku-spoggy/spoggy4
+integrate the spoggy-graph of scenaristeur/heroku-spoggy/spoggy4
 
 
 
 # Installation
-installer [Nodejs LTS](https://nodejs.org/fr/download/)
+
+requires; nodejs, polymer3
+
+https://polymer-library.polymer-project.org/3.0/docs/install-3-0
 
 
 ```
@@ -42,42 +47,22 @@ npm install
 polymer serve
 
 ```
--  builder evejs si ce n'est déjà fait
+
+build evejs (if not already done)
+
 ```
 cd node_modules/evejs
 browserify custom.js -o dist/eve.custom.js -s eve
 ```
 
-Spoggy4 est alors accessible à l'adresse [http://127.0.0.1:8081](http://127.0.0.1:8081)
+Spoggy4 is then accessible on the localhost port 8081: [http://127.0.0.1:8081](http://127.0.0.1:8081)
 
 
+
+-----
 
 [![Built with pwa–starter–kit](https://img.shields.io/badge/built_with-pwa–starter–kit_-blue.svg)](https://github.com/Polymer/pwa-starter-kit "Built with pwa–starter–kit")
+
 [![Build status](https://api.travis-ci.org/Polymer/pwa-starter-kit.svg?branch=template-responsive-drawer-layout)](https://travis-ci.org/Polymer/pwa-starter-kit)
 
-# PWA Starter Kit -- `template-responsive-drawer-layout`
-
-This sample app is a starting point for building PWAs. Out of the box, the template
-gives you the following features:
-- all the PWA goodness (manifest, service worker)
-- a responsive layout
-- application theming
-- example of using Redux for state management
-- offline UI
-- simple routing solution
-- fast time-to-interactive and first-paint through the PRPL pattern
-- easy deployment to prpl-server or static hosting
-- unit and integrating testing starting points
-- documentation about other advanced patterns.
-
-This template is very similar to the `master` template, in the sense that it keeps both Redux for state management, and all of the UI elements. The main difference is that the wide screen layout displays a persistent `app-drawer`, inline with the content.
-
-### 📖 Head over to the [documentation site](https://polymer.github.io/pwa-starter-kit/) for more details or check out [how to get started](https://polymer.github.io/pwa-starter-kit/setup/)!
-
-![pwa-starter-kit screenshot](https://user-images.githubusercontent.com/116360/39718020-dd60403e-51e9-11e8-9384-e019a6775841.png)
-
-## TODOs
-
-- [x] Setup Safari testing on Travis.
-- [x] Deploy all templates as demos.
-- [ ] Update to latest [Material Web Components](https://github.com/material-components/material-components-web-components).
+-----
